@@ -29,5 +29,5 @@ ENV HOME /root
 WORKDIR /root
 
 # Define default command.
-LABEL Version='hchan'
+LABEL Version='hchan-001'
 CMD ["bash"]
