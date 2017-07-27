@@ -24,7 +24,7 @@ ADD root/.scripts /root/.scripts
 
 # Set environment variables.
 ENV HOME /root
-EXPOSE 80
+
 # Define working directory.
 WORKDIR /root
 
